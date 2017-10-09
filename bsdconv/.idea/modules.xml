@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/elasticsearch-bsdconv.iml" filepath="$PROJECT_DIR$/.idea/modules/elasticsearch-bsdconv.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/elasticsearch-bsdconv_main.iml" filepath="$PROJECT_DIR$/.idea/modules/elasticsearch-bsdconv_main.iml" group="elasticsearch-bsdconv" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/elasticsearch-bsdconv_test.iml" filepath="$PROJECT_DIR$/.idea/modules/elasticsearch-bsdconv_test.iml" group="elasticsearch-bsdconv" />
+    </modules>
+  </component>
+</project>
